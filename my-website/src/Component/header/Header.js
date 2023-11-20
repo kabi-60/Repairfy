@@ -34,7 +34,10 @@ const Header = () => {
                     FAQ
                 </h4>
              </Link>
+             {/* <Link to='sign' smooth={true} duration={600}>
              <h4 className='header_right_btn'>Sign in</h4>
+             </Link> */}
+            
         </div>
     </div>
   )

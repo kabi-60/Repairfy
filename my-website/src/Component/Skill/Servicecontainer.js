@@ -32,11 +32,11 @@ export const Servicecontainer = () => {
                     <p>Body Parts</p>
                       
                     </div>
-                    <div className='service_box'>
+                    {/* <div className='service_box'>
                     <img src={box4} alt=""/>
                     <p>Windshield & Lights</p>
                       
-                    </div>
+                    </div> */}
                     <div className='service_box'>
                     <img src={box5} alt=""/>
                     <p>Periodic Service</p>

@@ -5,12 +5,16 @@ import Finalstage from './Component/Finalstage/Finalstage';
 import Contact from './Component/Contact/Contact';
 import Servicecontainer from './Component/Skill/Servicecontainer';
 import About from './Component/About/About';
+import { Sign } from './Component/Sign/Sign';
+
+
 
 
 const App = () => {
   return (
     <div>
       <Header/>
+      <Sign/> 
       <Topcontainer/>
       <Servicecontainer/>
       <About/>

@@ -4,6 +4,7 @@
     background-position: center;
     background-repeat: repeat;
     background-size: cover;
+    box-shadow: inset 0 0 0 2000px rgba(0,0,0,0.5);
     height: 100vh;
     width:100%;
 }
@@ -20,4 +21,19 @@
 }
 span{
     color: #c46210;
+}
+.about_para {
+    text-align:left;
+    color:white;
+    width: 65%;
+    position: absolute;
+    margin-top: 12%;
+    font-size: 28px;
+    padding-left:20%;
+    text-justify: newspaper;
+    line-height: 200%;
+}
+.about_para ul
+{
+    list-style: none;
 }

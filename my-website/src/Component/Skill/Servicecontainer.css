@@ -1,7 +1,7 @@
 .servicecontainer
 {
 background-image: url(pexels-george-sultan-1409999.jpg);
-height: 190vh;
+height: 150vh;
    width: 100%;
    background-position:center;
    background-repeat: no-repeat;
@@ -48,7 +48,7 @@ height: 190vh;
         margin-bottom:60px;
         margin-left: 10%;
 
-        background-color:#fff;
+        background-color:#ffffffa0;
         box-shadow: 10px 10px 10px -1px rgba(181, 170, 170, 0.75);
         -webkit-box-shadow: 10px 10px 10px -1px rgba(181, 170, 170, 0.75);
         -moz-box-shadow: 10px 10px 10px -1px rgba(181, 170, 170, 0.75);
@@ -73,7 +73,7 @@ img{
 .service_box > p
 {
     font-size: 20px;
-    color: #c46210;
+    color:#555555 ;
     font-weight:900;
     position: relative;
     bottom:-75%;
