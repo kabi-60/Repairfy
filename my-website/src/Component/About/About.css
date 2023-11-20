@@ -1,0 +1,23 @@
+.about_container
+{
+    background-image: url(pexels-cottonbro-studio-4488651.jpg);
+    background-position: center;
+    background-repeat: repeat;
+    background-size: cover;
+    height: 100vh;
+    width:100%;
+}
+.about_header
+{
+    color: #fff;
+    font-size:50px;
+    position:absolute;
+    margin-top:100px;
+    margin-left:100px;
+
+    font-family: 'Lato', sans-serif;
+   
+}
+span{
+    color: #c46210;
+}
