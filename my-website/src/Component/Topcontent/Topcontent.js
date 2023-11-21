@@ -1,14 +1,21 @@
 import React from 'react'
 import "./Topcontent.css";
-import Jeep from './jeep.png';
+// import Jeep from './jeep.png';
 const Topcontent = () => {
   return (
 
     <div className='topcontent'>
       <div className='topcontent_welcome'>
       
-        <h1><span>Welcome</span> to our premier <span>Reparify</span>  website, where automotive excellence meets unrivaled customer<span>care</span> .</h1>
-        <img src={Jeep} alt='' />
+        <h1>Welcome to our premier <span>Reparify</span>  website, where automotive excellence meets unrivaled customercare .</h1>
+        <div className='sign_container'>
+      <div className='sign_box'>
+
+             <button className='signbtn'>LOGIN IN</button>
+             <button className='registerbtn'>SIGN UP</button>
+      </div>
+    </div>
+        {/* <img src={Jeep} alt='' /> */}
       </div>
         <div className='topcontent_container'>
             <h1>Experience The Best Car Service In TamilNadu</h1>

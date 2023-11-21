@@ -3,7 +3,7 @@ import { Element } from "react-scroll";
 import box1 from "./periodic.png";
 import box2 from "./carwash.png";
 import box3 from "./brake.png"
-import box4 from "./door.png";
+// import box4 from "./door.png";
 import box5 from "./clipboard.png";
 import box6 from "./searching.png";
 import box7 from "./battery.png";

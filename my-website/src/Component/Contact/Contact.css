@@ -4,7 +4,7 @@ body{
 .contact_container
 {
     background-image: url(pexels-malte-luk-2244746.jpg);
-    height: 160vh;
+    height: 105vh;
    width: 100%;
    background-position:center;
    background-repeat: no-repeat;
@@ -16,20 +16,20 @@ body{
 }
 .contact_container_box
 {
-    margin-top:62px;
+    margin-top:90px;
     position:absolute;
     padding-left: 200PX;
     display: grid;
     grid-template-columns: 2fr 2fr ;
      width:960px;
-     height:950px;
+     height:650px;
 }
 
 .contact_container_box .contact_box
 {
     
     font-family: 'Crimson Pro', serif;
-    background-color: #fff;
+    background-color:#ffffffa0;
     padding:10%;
     margin-bottom:70px;
     border-radius:4px;

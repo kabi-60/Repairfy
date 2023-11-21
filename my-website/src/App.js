@@ -5,7 +5,9 @@ import Finalstage from './Component/Finalstage/Finalstage';
 import Contact from './Component/Contact/Contact';
 import Servicecontainer from './Component/Skill/Servicecontainer';
 import About from './Component/About/About';
-import { Sign } from './Component/Sign/Sign';
+import Blog from './Component/Blog/Blog';
+// import Login from './Component/Login/Login';
+
 
 
 
@@ -14,11 +16,12 @@ const App = () => {
   return (
     <div>
       <Header/>
-      <Sign/> 
       <Topcontainer/>
+      {/* <Login/> */}
       <Servicecontainer/>
-      <About/>
       <Contact/>
+      <About/>
+      <Blog/>
       <Finalstage/>
       
     </div>

@@ -23,13 +23,13 @@ height: 150vh;
     color: #c46210;
 }
 .servicecontainer > p{
-    font-size:23px;
+    font-size:28px;
     padding-left:2%;
     color: #fff;
-    font-weight:900;
     width: 1000px;
     margin-left:25px;
     margin-top:2%;
+    text-justify: newspaper;
     font-family: 'Lato', sans-serif;
 }
 .service_avaiable
@@ -73,7 +73,7 @@ img{
 .service_box > p
 {
     font-size: 20px;
-    color:#555555 ;
+    color:#353839 ;
     font-weight:900;
     position: relative;
     bottom:-75%;
